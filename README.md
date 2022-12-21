@@ -35,11 +35,209 @@ Azure Project Demo link: https://delightful-flower-0d3b51a10.2.azurestaticapps.n
 Project screen Shorts:
 
 
-![bandicam 2022-12-12 16-30-10-355](https://user-images.githubusercontent.com/118432063/207029230-10ebff0d-659d-4ecc-944f-0aba4364b643.jpg)
-![bandicam 2022-12-12 16-30-14-471](https://user-images.githubusercontent.com/118432063/207029240-39d88708-ec1d-428a-86c1-3a4c4eedb206.jpg)
-![bandicam 2022-12-12 16-30-28-746](https://user-images.githubusercontent.com/118432063/207029243-40631b19-2d6a-4748-89d5-2514770cb3df.jpg)
-![bandicam 2022-12-12 16-26-23-657](https://user-images.githubusercontent.com/118432063/207029253-cf91c4f4-adbf-4031-bd38-05dcc718635e.jpg)
-![bandicam 2022-12-12 16-29-36-998](https://user-images.githubusercontent.com/118432063/207029263-109fa913-374b-44f1-83c8-2402bdba97cf.jpg)
-![bandicam 2022-12-12 16-29-46-080](https://user-images.githubusercontent.com/118432063/207029267-025c729c-becd-4aa5-a43a-dfc969d702d3.jpg)
-![bandicam 2022-12-12 16-29-50-373](https://user-images.githubusercontent.com/118432063/207029271-713f4db9-ffbd-4660-a6aa-fc03453dd7f8.jpg)
+### Home -
+![Screenshot (5)](https://user-images.githubusercontent.com/118432063/208838761-f41219c9-783e-4eda-91cf-f4ee4aea747d.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### About -
+![Screenshot (6)](https://user-images.githubusercontent.com/118432063/208838798-e8060461-2a42-4e3d-88ba-bfa5a7dfd057.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Departments -
+![Screenshot (7)](https://user-images.githubusercontent.com/118432063/208838828-f773a60d-6806-4152-8ac4-b04bc85ab11d.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Doctors -
+![Screenshot (8)](https://user-images.githubusercontent.com/118432063/208838854-a348eb0f-2229-4a28-b7cc-f288bf12698c.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###Contact Us -
+![Screenshot (9)](https://user-images.githubusercontent.com/118432063/208838886-8a81927d-9202-4e1d-9fd3-bab0211524f0.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Asthma Query Bot -
+![Screenshot (10)](https://user-images.githubusercontent.com/118432063/208838928-2476ca6a-dd60-4913-9c5b-265a8c52c1db.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Azure Static Web App -
+![Screenshot (11)](https://user-images.githubusercontent.com/118432063/208838954-cb8acad4-c9ca-4ae9-a188-f5c33d804273.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Azure Static Health Bot -
+
+![Screenshot (12)](https://user-images.githubusercontent.com/118432063/208839056-f048ff45-17b4-44c7-b0ab-9eb3819974a1.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
